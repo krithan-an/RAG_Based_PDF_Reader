@@ -187,13 +187,13 @@ streamlit run app.py
 ## Home Screen
 
 
-(Add screensh<img width="959" height="485" alt="Screenshot 2026-07-16 080359" src="https://github.com/user-attachments/assets/53313681-b66a-4829-a5e6-de5a7dce82e9" /><img width="959" height="485" alt="Screenshot 2026-07-16 080359" src="https://github.com/user-attachments/assets/53313681-b66a-4829-a5e6-de5a7dce82e9" />ot here)
+(Add screensh<img width="959" height="485" alt="Screenshot 2026-07-16 080359" src="https://github.com/user-attachments/assets/53313681-b66a-4829-a5e6-de5a7dce82e9" />
 
 
 ## Ask Questions
 
 
-<img width="958" height="497" alt="Screenshot 2026-07-16 080306" src="https://github.com/user-attachments/assets/951c0896-e04c-46c7-a9d2-4b71fe0f7c70" /><img width="958" height="497" alt="Screenshot 2026-07-16 080306" src="https://github.com/user-attachments/assets/951c0896-e04c-46c7-a9d2-4b71fe0f7c70" />
+<img width="958" height="497" alt="Screenshot 2026-07-16 080306" src="https://github.com/user-attachments/assets/951c0896-e04c-46c7-a9d2-4b71fe0f7c70" />
 
 
 # 📈 Future Enhancements
